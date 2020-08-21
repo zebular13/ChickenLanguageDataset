@@ -4,8 +4,8 @@ A dataset of chicken vocalizations intended to create machine learning models fo
 This project was inspired by [Con Slobodchikoff](http://chasingdoctordolittle.com)'s incredible [work with prairie dogs](https://www.youtube.com/watch?v=y1kXCh496U0). 
 
 ## This dataset contains two types of data: 
-1. Single vocalizations done by a single chicken, intended for translation
-2. Longer segments of audio recorded that may include multiple chickens (for instance, data recorded in the coop of a poultry farm) that can provide a general sense of chicken well-being
+1. Single vocalizations done by a single chicken, intended for "translation" to its human equivalent.
+2. Longer segments of audio recorded that may include multiple chickens (for instance, data recorded in the coop of a poultry farm) that can provide a general sense of chicken well-being.
 
 ## Current vocalizations studied:
 1. Greeting. I believe this to be dependent on the person or animal being greeted, as chickens are thought to give distinct names to different people.
